@@ -1,4 +1,4 @@
-### Hi there (＾▽＾)
+### Hi there - Please see below for recent updates!(＾▽＾)
 
 03/11/24 Current Project: Deep Learning-Based Eye Tracking Analysis for Autism Spectrum Disorder Diagnosis  <br />
 Collaborators: Callyn V, Christian O.
