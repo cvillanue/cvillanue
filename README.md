@@ -1,7 +1,8 @@
-### Hi there ^-^
+### Hi there!
 
 
-![robot_sketch](https://github.com/cvillanue/cvillanue/assets/100804248/f355f659-a0b7-4eac-bf00-de9dad4b0c20)
+![artificial_neural_networks](https://github.com/user-attachments/assets/cacd8ddf-5ece-4ba9-81ea-837fbffc60a1)
+
 
 
 
