@@ -1,7 +1,7 @@
 ### Hi there!
 
 
-![artificial_neural_networks](https://github.com/user-attachments/assets/cacd8ddf-5ece-4ba9-81ea-837fbffc60a1)
+![goodBOIRobot](https://github.com/user-attachments/assets/031a5d37-44ad-4707-9d89-5e558dd4b8e8)
 
 
 
