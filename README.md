@@ -2,7 +2,8 @@
 
 
 
-![R2D2](https://github.com/user-attachments/assets/acdfab01-d60c-41a4-935a-549953d5452b)
+![robot_sketch](https://github.com/user-attachments/assets/21e40605-61db-4977-ac53-0115ed9d34df)
+
 
 
 
