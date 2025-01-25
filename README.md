@@ -2,7 +2,7 @@
 
 Paper's i'm currently reading at the moment:
 
--Computing personalized brain functional networks from fMRI using self-supervised deep learning (link:https://pubmed.ncbi.nlm.nih.gov/36706636/)
+- Computing personalized brain functional networks from fMRI using self-supervised deep learning (link:https://pubmed.ncbi.nlm.nih.gov/36706636/)
 - Affective Computing Has Changed: The Foundation Model Disruption (link: https://arxiv.org/html/2409.08907v1)
 
 
