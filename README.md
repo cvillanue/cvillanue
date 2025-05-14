@@ -1,6 +1,6 @@
 # Hi there!
 
-### Updates: Training for my first 10K race on Dec (2025)  🏃👟
+### Updates: Training for my first 10K race in Dec (2025)  🏃👟
 
 Paper's i'm currently reading at the moment:
 
