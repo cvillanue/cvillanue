@@ -1,4 +1,6 @@
-### Hi there!
+# Hi there!
+
+### Updates: Training for my first 10K race on Dec 6  🏃👟
 
 Paper's i'm currently reading at the moment:
 
